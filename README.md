@@ -1,5 +1,8 @@
 # petfeedd
 
+Reuploaded to my github so I could host the creation document in a suitable place.
+I originally used the source code 1:1 from the github repo.
+
 ## About
 
 petfeedd is a daemon for Raspberry Pi that will feed your pets. :)
